@@ -8,11 +8,11 @@
     "priority": 100,
     "icon": "https://raw.githubusercontent.com/Lenetis/return-of-the-radar/master/icon.png",
     "titansOnly": true,
-	"category": [
-		"titans",
-		"units",
-		"gameplay"
-	],	
+    "category": [
+	"titans",
+	"units",
+	"gameplay"
+    ],	
     "scenes": {},
     "context": "server",
     "date": "2020-08-24",
