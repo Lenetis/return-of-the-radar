@@ -1,5 +1,5 @@
 {
-    "identifier": "pa.lenetis.return-of-the-radar",
+    "identifier": "com.pa.lenetis.return-of-the-radar",
     "display_name": "Return of The Radar",
     "description": "The Orbital and Deepspace Radar from classic PA returns! All orbital units are now hidden unless the Deepspace Radar is constructed and powered. Works with base game AI. Does not affect Galactic War.",
     "author": "Lenetis",
