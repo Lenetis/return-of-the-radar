@@ -4,7 +4,7 @@
     "description": "The Orbital and Deepspace Radar from classic PA returns! All orbital units are now hidden unless the Deepspace Radar is constructed and powered. Works with base game AI. Does not affect Galactic War.",
     "author": "Lenetis",
     "signature": "not yet implemented",
-    "forum": "none",
+    "forum": "https://forums.planetaryannihilation.com/threads/return-of-the-radar.73503/",
     "priority": 100,
     "icon": "https://github.com/Lenetis/return-of-the-radar/blob/master/icon.png?raw=true",
     "titansOnly": true,
