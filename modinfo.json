@@ -8,38 +8,14 @@
     "priority": 100,
     "icon": "https://raw.githubusercontent.com/Lenetis/return-of-the-radar/master/icon.png",
     "titansOnly": true,
+	"category": [
+		"titans",
+		"units",
+		"gameplay"
+	],	
     "scenes": {},
     "context": "server",
-    "date": "2020-08-21",
+    "date": "2020-08-24",
     "build": "114823",
-    "version": "1.0",
-    "url": "https://github.com/Lenetis/return-of-the-radar/archive/master.zip",
-    "download": "https://cdn.palobby.com/community-mods/downloads/pa.lenetis.return-of-the-radar",
-    "unitList": false,
-    "fileSystem": false,
-    "searchable": [
-        "return",
-        "of",
-        "the",
-        "radar",
-        "orbital",
-        "deepspace",
-		"space",
-        "vision",
-        "lenetis"
-    ],
-    "sort": "return of the radar",
-    "authors": [
-        "Lenetis"
-    ],
-    "timestamp": 1598007000000,
-    "dependencies": [],
-    "companions": [],
-    "framework": false,
-    "available": true,
-    "enabled": true,
-    "classicOnly": false,
-    "classic": false,
-    "titans": true,
-    "conflicts": {}
+    "version": "1.0"
 }
