@@ -6,7 +6,7 @@
     "signature": "not yet implemented",
     "forum": "https://forums.planetaryannihilation.com/threads/return-of-the-radar.73503/",
     "priority": 100,
-    "icon": "https://github.com/Lenetis/return-of-the-radar/blob/master/icon.png?raw=true",
+    "icon": "https://raw.githubusercontent.com/Lenetis/return-of-the-radar/master/icon.png",
     "titansOnly": true,
     "scenes": {},
     "context": "server",
