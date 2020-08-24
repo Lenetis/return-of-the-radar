@@ -12,8 +12,7 @@
 	"titans",
 	"units",
 	"gameplay"
-    ],	
-    "scenes": {},
+    ],
     "context": "server",
     "date": "2020-08-24",
     "build": "114823",
