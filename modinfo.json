@@ -1,20 +1,29 @@
 {
     "identifier": "com.pa.lenetis.return-of-the-radar",
     "display_name": "Return of The Radar",
-    "description": "The Orbital and Deepspace Radar from classic PA returns! All orbital units are now hidden unless the Deepspace Radar is constructed and powered. Works with base game AI. Does not affect Galactic War.",
+    "description": "The Orbital and Deepspace Radar from classic PA returns! All orbital units are now hidden unless the Deepspace Radar is constructed and powered. Works with base game AI. Does not affect Galactic War. Now compatible with most other mods!",
     "author": "Lenetis",
     "signature": "not yet implemented",
     "forum": "https://forums.planetaryannihilation.com/threads/return-of-the-radar.73503/",
-    "priority": 100,
-    "icon": "https://raw.githubusercontent.com/Lenetis/return-of-the-radar/master/icon.png",
+    "priority": 90,
+    "icon": "https://raw.githubusercontent.com/Lenetis/misc/main/icons/return-of-the-radar-icon.png",
     "titansOnly": true,
+	"scenes": {
+        "shared_build": [
+            "coui://ui/mods/com.pa.lenetis.return-of-the-radar/shared_build.js"
+        ],
+        "icon_atlas": [
+            "coui://ui/mods/com.pa.lenetis.return-of-the-radar/icon_atlas.js"
+        ]
+	},
     "category": [
 	"titans",
 	"units",
+	"balance",
 	"gameplay"
     ],
     "context": "server",
-    "date": "2020-08-24",
-    "build": "114823",
-    "version": "1.0"
+    "date": "2021-08-06",
+    "build": "115938",
+    "version": "1.01"
 }
