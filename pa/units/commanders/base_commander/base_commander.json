@@ -5,7 +5,7 @@
 	"strategic_icon_priority": 0,
 	"max_health": 12500,
 	"build_metal_cost": 25000,
-	"buildable_types": "CmdBuild",
+	"buildable_types": "(CmdBuild) - Custom1 - Custom2 - Custom3 - Custom4",
 	"show_in_orbital_layer": true,
 	"armor_type": "AT_Commander",
 	"attachable": {
@@ -36,6 +36,7 @@
 		"UNITTYPE_Mobile",
 		"UNITTYPE_Offense",
 		"UNITTYPE_Land",
+		"UNITTYPE_Amphibious",
 		"UNITTYPE_NoBuild"
 	],
 	"command_caps": [
@@ -73,6 +74,10 @@
 				},
 				{
 					"move_type": "hover",
+					"stamp_type": "simple"
+				},
+				{
+					"move_type": "water-hover",
 					"stamp_type": "simple"
 				}
 			]
